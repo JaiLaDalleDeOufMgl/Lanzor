@@ -1,0 +1,499 @@
+[
+    {
+      "items": {
+        "items": [],
+        "weapons": [],
+        "vehicles": [
+          {
+            "probability": 4,
+            "name": "sq7",
+            "label": "Audi SQ7"
+          },
+          {
+            "probability": 2,
+            "name": "21rsq8",
+            "label": "RSQ8"
+          },
+          {
+            "probability": 1,
+            "name": "4444",
+            "label": "AMG G63"
+          },
+          {
+            "probability": 3,
+            "name": "a45",
+            "label": "A45"
+          },
+          {
+            "probability": 2,
+            "name": "bmci",
+            "label": "BMW M5"
+          },
+          {
+            "probability": 3,
+            "name": "rmode63s",
+            "label": "E63S"
+          },
+          {
+            "probability": 4,
+            "name": "rmodx6",
+            "label": "X6"
+          },
+          {
+            "probability": 4,
+            "name": "alpinab7",
+            "label": "Alpina B7"
+          },
+          {
+            "probability": 4,
+            "name": "amggt63",
+            "label": "AMG GT63"
+          },
+          {
+            "probability": 2,
+            "name": "aeroxdrag",
+            "label": "Aerox Drag"
+          },
+          {
+            "probability": 3,
+            "name": "ksd",
+            "label": "KTM Super Duke"
+          },
+          {
+            "probability": 2,
+            "name": "urus",
+            "label": "Urus"
+          },
+          {
+            "probability": 4,
+            "name": "amggtr",
+            "label": "AMG GTR"
+          },
+          {
+            "probability": 2,
+            "name": "bmwg07",
+            "label": "BMW G07"
+          },
+          {
+            "probability": 3,
+            "name": "bmwm8wb",
+            "label": "BMW M8"
+          },
+          {
+            "probability": 4,
+            "name": "cls63",
+            "label": "CLS 63"
+          },
+          {
+            "probability": 3,
+            "name": "monza",
+            "label": "Monza"
+          },
+          {
+            "probability": 2,
+            "name": "rmodjeep",
+            "label": "Jeep"
+          }
+        ]
+      },
+      "price": 2500,
+      "label": "Caisse véhicules",
+      "color": "legendair",
+      "model": "vehicle_case"
+    },
+    {
+      "items": {
+        "items": [],
+        "weapons": [
+          {
+            "probability": 3,
+            "name": "WEAPON_ALIEN",
+            "label": "Fusil Alien"
+          },
+          {
+            "probability": 3,
+            "name": "WEAPON_REDL",
+            "label": "Fusil Rouge"
+          },
+          {
+            "probability": 2,
+            "name": "WEAPON_TEC9MF",
+            "label": "TEC9-MF"
+          },
+          {
+            "probability": 3,
+            "name": "WEAPON_SIG550",
+            "label": "SIG 550"
+          },
+          {
+            "probability": 3,
+            "name": "WEAPON_GUARD",
+            "label": "Fusil Guard"
+          },
+          {
+            "probability": 1,
+            "name": "WEAPON_357",
+            "label": "357"
+          },
+          {
+            "probability": 3,
+            "name": "WEAPON_OBLIVION",
+            "label": "Fusil Oblivion"
+          },
+          {
+            "probability": 3,
+            "name": "WEAPON_ANCIENT",
+            "label": "Fusil Ancient"
+          },
+          {
+            "probability": 3,
+            "name": "WEAPON_BLASTAK",
+            "label": "Fusil Blast"
+          },
+          {
+            "probability": 3,
+            "name": "WEAPON_BLASTM4",
+            "label": "Fusil BlastM4"
+          },
+          {
+            "probability": 4,
+            "name": "WEAPON_COACHGUN",
+            "label": "Coach Gun"
+          },
+          {
+            "probability": 1,
+            "name": "WEAPON_DESERTNIKE",
+            "label": "Desert Eagle Nike"
+          },
+          {
+            "probability": 1,
+            "name": "WEAPON_DESERTPURPLE",
+            "label": "Desert Eagle Violet"
+          },
+          {
+            "probability": 2,
+            "name": "WEAPON_GRAU",
+            "label": "Fusil Grau"
+          },
+          {
+            "probability": 2,
+            "name": "WEAPON_UZILS",
+            "label": "Uzi"
+          },
+          {
+            "probability": 5,
+            "name": "WEAPON_SCARSC",
+            "label": "Fusil scarSC"
+          },
+          {
+            "probability": 1,
+            "name": "WEAPON_SOVEREIGN",
+            "label": "Ghost Sovereign"
+          }
+        ],
+        "vehicles": []
+      },
+      "price": 3000,
+      "label": "Caisse d'armes",
+      "color": "legendair",
+      "model": "weapon_case"
+    },
+    {
+      "items": {
+        "items": [
+          {
+            "probability": 1,
+            "name": "cash",
+            "label": "250000"
+          },
+          {
+            "probability": 2,
+            "name": "cash",
+            "label": "500000"
+          },
+          {
+            "probability": 3,
+            "name": "cash",
+            "label": "1000000"
+          },
+          {
+            "probability": 4,
+            "name": "cash",
+            "label": "1500000"
+          },
+          {
+            "probability": 5,
+            "name": "cash",
+            "label": "2000000"
+          }
+        ],
+        "weapons": [
+          {
+            "probability": 3,
+            "name": "WEAPON_ALIEN",
+            "label": "Fusil Alien"
+          },
+          {
+            "probability": 3,
+            "name": "WEAPON_REDL",
+            "label": "Fusil Rouge"
+          },
+          {
+            "probability": 3,
+            "name": "WEAPON_GUARD",
+            "label": "Fusil Guard"
+          },
+          {
+            "probability": 2,
+            "name": "WEAPON_DESERTPURPLE",
+            "label": "Desert Eagle Violet"
+          },
+          {
+            "probability": 2,
+            "name": "WEAPON_DESERTNIKE",
+            "label": "Desert Eagle Nike"
+          },
+          {
+            "probability": 1,
+            "name": "WEAPON_357",
+            "label": "357"
+          },
+          {
+            "probability": 4,
+            "name": "WEAPON_SNAKE",
+            "label": "Fusil Snake"
+          }
+        ],
+        "vehicles": [
+          {
+            "probability": 2,
+            "name": "HycadeSubaru",
+            "label": "Hycade Subaru"
+          },
+          {
+            "probability": 3,
+            "name": "KeyvanyRSQ3",
+            "label": "RSQ3"
+          },
+          {
+            "probability": 1,
+            "name": "rmodmk7",
+            "label": "Golf MK7"
+          },
+          {
+            "probability": 3,
+            "name": "rs7abt2",
+            "label": "RS7 ABT"
+          },
+          {
+            "probability": 3,
+            "name": "370z",
+            "label": "Nissan 370z"
+          }
+        ]
+      },
+      "price": 3500,
+      "label": "Caisse silver",
+      "color": "legendair",
+      "model": "silver_case"
+    },
+    {
+      "items": {
+        "items": [
+  
+          {
+            "probability": 1,
+            "name": "cash",
+            "label": "500000"
+          },
+          {
+            "probability": 2,
+            "name": "cash",
+            "label": "750000"
+          },
+          {
+            "probability": 3,
+            "name": "cash",
+            "label": "1000000"
+          },
+          {
+            "probability": 4,
+            "name": "cash",
+            "label": "1500000"
+          },
+          {
+            "probability": 5,
+            "name": "cash",
+            "label": "2000000"
+          },
+          {
+            "probability": 5,
+            "name": "sempre_rtxdev_jacuzzi_modern",
+            "label": "Jacuzzi"
+          }
+        ],
+        "weapons": [
+          {
+            "probability": 5,
+            "name": "WEAPON_COACHGUN",
+            "label": "Coach Gun"
+          },
+          {
+            "probability": 4,
+            "name": "WEAPON_GRAU",
+            "label": "Fusil Grau"
+          },
+          {
+            "probability": 2,
+            "name": "WEAPON_UZILS",
+            "label": "Uzi"
+          },
+          {
+            "probability": 3,
+            "name": "WEAPON_SCAR17",
+            "label": "Scar 17"
+          },
+          {
+            "probability": 1,
+            "name": "WEAPON_SOVEREIGN",
+            "label": "Ghost Sovereign"
+          },
+          {
+            "probability": 2,
+            "name": "WEAPON_SNAKE",
+            "label": "Fusil Snake"
+          }
+        ],
+        "vehicles": [
+          {
+            "probability": 1,
+            "name": "206wrc",
+            "label": "206 WRC"
+          },
+          {
+            "probability": 2,
+            "name": "718gt4rs",
+            "label": "GT4RS"
+          },
+          {
+            "probability": 1,
+            "name": "812mansory",
+            "label": "812 Mansory"
+          },
+          {
+            "probability": 2,
+            "name": "teslapd",
+            "label": "Tesla"
+          },
+          {
+            "probability": 3,
+            "name": "skyline",
+            "label": "Skyline"
+          },
+          {
+            "probability": 3,
+            "name": "RAPTOR150",
+            "label": "Raptor 150"
+          }
+        ]
+      },
+      "price": 4000,
+      "label": "Caisse gold",
+      "color": "legendair",
+      "model": "gold_case"
+    },
+    {
+      "items": {
+        "items": [
+          {
+            "probability": 1,
+            "name": "cash",
+            "label": "1000000"
+          },
+          {
+            "probability": 2,
+            "name": "cash",
+            "label": "2000000"
+          },
+          {
+            "probability": 3,
+            "name": "cash",
+            "label": "2500000"
+          },
+          {
+            "probability": 5,
+            "name": "cash",
+            "label": "3000000"
+          },
+          {
+            "probability": 4,
+            "name": "sempre_rtxdev_jacuzzi_modern",
+            "label": "Jacuzzi"
+          }
+        ],
+        "weapons": [
+          {
+            "probability": 3,
+            "name": "WEAPON_SHOTGUNK",
+            "label": "Fusil a pompe"
+          },
+          {
+            "probability": 2,
+            "name": "WEAPON_KINETIC",
+            "label": "Fusil kénétique"
+          },
+          {
+            "probability": 5,
+            "name": "WEAPON_BLUERIOT",
+            "label": "Sniper blue riot"
+          },
+          {
+            "probability": 4,
+            "name": "WEAPON_VSCO",
+            "label": "Sniper VSCO"
+          },
+          {
+            "probability": 3,
+            "name": "WEAPON_SCAR17",
+            "label": "scar 17"
+          },
+          {
+            "probability": 5,
+            "name": "WEAPON_BONEPER",
+            "label": "Fusil osseux"
+          }
+        ],
+        "vehicles": [
+          {
+            "probability": 5,
+            "name": "19dbs",
+            "label": "19dbs"
+          },
+          {
+            "probability": 2,
+            "name": "20xb7",
+            "label": "20xb7"
+          },
+          {
+            "probability": 3,
+            "name": "650s",
+            "label": "650s"
+          },
+          {
+            "probability": 4,
+            "name": "taycants21m",
+            "label": "taycants21m"
+          },
+          {
+            "probability": 5,
+            "name": "vanquishzs",
+            "label": "vanquishzs"
+          }
+        ]
+      },
+      "price": 5000,
+      "label": "Caisse diamant",
+      "color": "legendair",
+      "model": "diamond_case"
+    }
+  ]

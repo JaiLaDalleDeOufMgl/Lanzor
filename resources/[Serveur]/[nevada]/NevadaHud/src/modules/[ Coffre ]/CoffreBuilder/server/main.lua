@@ -1,0 +1,1 @@
+MOD_CoffreBuilder.list = {}

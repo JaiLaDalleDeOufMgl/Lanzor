@@ -1,0 +1,26 @@
+Language = {
+    ["English"] = {
+		["notvnearby"] = "Pas de télévision à proximité",
+		["notsupported"] = "Ce format vidéo n'est pas pris en charge !",
+		["noinvehicle"] = "Vous n'êtes pas dans un véhicule",
+		["tvinstalled"] = "Vous avez installé la télévision dans le véhicule",
+		["vehiclenotowned"] = "Ce véhicule ne vous appartient pas",
+		["notenoughitem"] = "Vous n'avez pas l'élément de télévision pour véhicule",
+		["nopermission"] = "Vous n'avez pas la permission d'ouvrir cette télévision",
+		["streamerdeactivated"] = "Mode streamer désactivé",
+		["streamerdactivated"] = "Mode streamer activé",
+		["controltv"] = "Contrôler la télévision",
+    },
+	["German"] = {
+		["notvnearby"] = "Kein Fernseher in der Nähe",
+		["notsupported"] = "Das Videoformat wird nicht unterstützt!",
+		["noinvehicle"] = "Du bist nicht im Fahrzeug",
+		["tvinstalled"] = "Du hast das Fernsehgerät in einem Fahrzeug eingebaut",
+		["vehiclenotowned"] = "Dieses Fahrzeug ist nicht dein Besitz!",
+		["notenoughitem"] = "Sie haben kein Fahrzeugfernsehen",
+		["nopermission"] = "Sie haben nicht die Erlaubnis, diesen Fernseher zu öffnen",
+		["streamerdeactivated"] = "Streamer mode deactivated",
+		["streamerdactivated"] = "Streamer mode activated",		
+		["controltv"] = "Control the TV",	
+	},	
+}

@@ -1,0 +1,1 @@
+TriggerEvent("chat:addSuggestion", "/sGangBuilder", ("Create Gang / Orga"), {})

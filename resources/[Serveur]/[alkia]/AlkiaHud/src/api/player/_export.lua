@@ -1,0 +1,1 @@
+_G.JFW.Player = API_Player

@@ -1,0 +1,6 @@
+MOD_HUD:onReady(function() 
+    RegisterNetEvent('Gamemode:Hud:UpdatePlayersCount')
+    AddEventHandler('Gamemode:Hud:UpdatePlayersCount', function(int)
+        MOD_HUD.class:UpdatePlayersConnected(int)
+    end)
+end)

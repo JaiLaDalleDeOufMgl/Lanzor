@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": "O'Neil",
+        "about": "",
+        "place": "Ferme des O'Neils",
+        "image": "./img/ferme.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "Shipment",
+        "about": "",
+        "place": "Shipment Map",
+        "image": "./img/shipment.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "King",
+        "about": "",
+        "place": "Quartier King",
+        "image": "./img/king.jpg"
+    }
+]

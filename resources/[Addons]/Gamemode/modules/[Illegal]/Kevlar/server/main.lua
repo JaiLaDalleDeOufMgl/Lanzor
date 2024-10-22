@@ -1,0 +1,10 @@
+ESX.RegisterUsableItem('kevlar', function(source)
+    TriggerClientEvent("Kevlar:Verif", source)
+end)
+
+RegisterServerEvent("Kevlar:Pass")
+AddEventHandler("Kevlar:Pass", function()
+    local xPlayer = ESX.GetPlayerFromId(source)
+    xPlayer.removeInventoryItem("kevlar", 1)
+    TriggerClientEvent("Kevlar:Add", source)
+end)

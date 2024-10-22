@@ -1,0 +1,5 @@
+MOD_HUD:onReady(function()
+    AddEventHandler('Gamemode:Hud:SetHudRadioUse', function(bool)
+        MOD_HUD.class:SetRadioUse(bool)
+    end)
+end)

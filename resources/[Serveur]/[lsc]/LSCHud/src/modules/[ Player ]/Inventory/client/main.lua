@@ -1,0 +1,1 @@
+MOD_inventory.class = _GamemodeInventory()

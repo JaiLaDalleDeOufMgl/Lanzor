@@ -1,0 +1,1 @@
+TriggerEvent("chat:addSuggestion", "/sJobsBuilder", ("Create Jobs farm"), {})
